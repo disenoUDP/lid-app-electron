@@ -1,0 +1,20 @@
+{
+  "name": "lid-app-electron",
+  "version": "0.0.1",
+  "description": "app de escritorio para lid udp",
+  "homepage": "https://github.com/montoyamoraga/lid-app-electron#readme",
+  "bugs": {
+    "url": "https://github.com/montoyamoraga/lid-app-electron/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/montoyamoraga/lid-app-electron.git"
+  },
+  "license": "MIT",
+  "author": "montoyamoraga",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
